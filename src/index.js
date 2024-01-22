@@ -1,7 +1,7 @@
 // Template JavaScript File
 
-// The command for webpack to recompile code on save is 'npm run watch'
-// Just write that in the CLI and let webpack 'watch' for changes
+// Install webpack with 'npm install webpack webpack-cli --save-dev'
+// Automatically compile code with 'npm run watch', stop with ctrl+c
 
 import './style.css';
 import Logo from './img/odin-logo.svg';
