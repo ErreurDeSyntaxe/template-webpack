@@ -1,3 +1,4 @@
+'use strict';
 // Template JavaScript File
 
 // Install webpack with 'npm install webpack webpack-cli --save-dev'

@@ -1,3 +1,4 @@
+'use strict';
 // Template JavaScript Module File
 
 const greetMe = () => {
